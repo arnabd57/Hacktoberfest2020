@@ -8,7 +8,9 @@ Accepting all kinds of contributions so please go ahead and create a pull reques
 
 Add anything you have created and want to share and once you have done it, be sure to add your username below in the Contributors Section
 
-
+## Beginner-Friendly Github Repos to make PR's for Hacktoberfest 2020
+[bhaveshlohana/HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
+[MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 
 ## Contributors:
 ### Udatta Mukherjee : [Github](https://github.com/udattam) [Twitter](https://twitter.com/iamudattam)
