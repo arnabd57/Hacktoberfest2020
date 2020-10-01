@@ -10,6 +10,7 @@ Add anything you have created and want to share and once you have done it, be su
 
 ## Beginner-Friendly Github Repos to make PR's for Hacktoberfest 2020
 [bhaveshlohana/HacktoberFest2020-Contributions](https://github.com/bhaveshlohana/HacktoberFest2020-Contributions)
+
 [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 
 ## Contributors:
